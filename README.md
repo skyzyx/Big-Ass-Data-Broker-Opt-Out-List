@@ -89,7 +89,7 @@ While you can’t see all of your data without a paid account, Ancestry will del
 Search for yourself and [remove your information](https://www.familytreenow.com/optout).
 
 ### ☠ FastPeopleSearch.com
-Look for and [remove your information](https://www.fastpeoplesearch.com/optout). You may need to solve a captcha.
+[Look for](https://www.fastpeoplesearch.com/) and [remove your information](https://www.fastpeoplesearch.com/optout). You may need to solve a captcha.
 
 ### ☠ USPhoneBook
 Look for your number and [opt out](https://www.usphonebook.com/opt-out/).
